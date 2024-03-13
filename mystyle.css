@@ -1,0 +1,40 @@
+/* Insert any CSS code below here */
+
+h2 {
+  background-color: ghostwhite;
+  text-decoration: underline;
+  text-decoration: bo;
+}
+
+body {
+  background-color: lavenderblush;
+}
+
+h3 {
+  color: #9A7FA8;
+}
+
+table{
+  border-collapse: collapse;
+  background-color: #F7B9FF;
+  border: 1px solid;
+  float: right;
+}
+
+th{
+  width: 300px;
+  border: 1px solid;
+}
+
+tr{
+  border: 1px solid;
+}
+
+td{
+  border: 1px solid;
+}
+
+hr{
+  border: 1px solid #F1D2FF;
+  border-radius: 5px;
+}
